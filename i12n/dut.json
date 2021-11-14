@@ -1,0 +1,23 @@
+{
+    "New_User" : "Nieuwe gebruiker",
+    "Exisiting_User" : "bestaande gebruiker",
+    "Username" : "Gebruikersnaam",
+    "Password" : "Wachtwoord",
+    "Login" : "Log in",
+    "FirstName" : "Voornaam",
+    "OtherName" : "Andere naam",
+    "LastName" : "Achternaam",
+    "DateofBirth" : "Geboortedatum",
+    "Gender" : "Geslacht",
+    "Female" : "Vrouwelijk",
+    "Male" : "Mannelijk",
+    "IDNumber" : "ID nummer",
+    "CellNumber" : "GSM nummer",
+    "Email" : "e-mail",
+    "LanguagePreference" : "Taal voorkeur",
+    "Register" : "Register",
+    "ReportAccident" : "Ongeval melden",
+    "Tracking" : "Volgen",
+    "FollowUp" : "Ukulandelisa",
+    "IncorrectUsernameorPassword" : "Foute gebruikersnaam of wachtwoord"
+    }

@@ -1,0 +1,23 @@
+{
+    "New_User" : "Mutirhisi wuntshwa",
+    "Exisiting_User" : "Mutirhisi wa khale",
+    "Username" : "Vito ra mutirhisi",
+    "Password" : "Nambara yaku pfula",
+    "Login" : "Nghena",
+    "FirstName" : "Viyo ro sungula",
+    "OtherName" : "Vito rinwani",
+    "LastName" : "Xivongo xa wena",
+    "DateofBirth" : "Siku raku tswariwa",
+    "Gender" : "Rimbewu",
+    "Female" : "Nwansati",
+    "Male" : "Nwanuna",
+    "IDNumber" : "Nomboro ya pasi",
+    "CellNumber" : "Nambara ya phone",
+    "Email" : "emaile",
+    "LanguagePreference" : "Ririmi uri tsakelaku",
+    "Register" : "Tsarisa",
+    "ReportAccident" : "Tivisa ngozi",
+    "Tracking" : "Lavisisa",
+    "FollowUp" : "Landzelerisa",
+    "IncorrectUsernameorPassword" : "Vito roka ringari rona kumbe Nambara yoka yingari yona yo pfula"
+    }

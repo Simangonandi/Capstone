@@ -1,0 +1,23 @@
+{
+    "New_User" : "Umsebenzisi omtsha",
+    "Exisiting_User" : "Umsebenzisi okhoyo",
+    "Username" : "Igama lomsebenzisi",
+    "Password" : "Inombolo yokuvula",
+    "Login" : "Ngema",
+    "FirstName" : "Igama lakho",
+    "OtherNane" : "Igama lenye",
+    "LastName" : "Ifani yakho",
+    "DateofBirth" : "Umhla wokuzalwa",
+    "Gender" : "Isini",
+    "Female" : "Ibhinqa",
+    "Male" : "Indoda",
+    "IDNumber" : "Inombolo yesazisi",
+    "CellPhoneNumber" : "Inombolo yeSelfowuni",
+    "Email" : "I-imeyile",
+    "LanguagePreference" : "Ukhetho lolwimi",
+    "Register" : "Bhalisa",
+    "ReportAccident" : "Xela ingozi",
+    "Tracking" : "Ukulandelela",
+    "FollowUp" : "Ukulandelisa",
+    "IncorrectUsernameorPassword" : "Igama lomsebenzisi elingalunganga okanye igama lokugqithisa"
+    }

@@ -1,0 +1,23 @@
+{
+    "New_User" : "Mtumiaji mpya",
+    "Exisiting_User" : "Mtumiaji aliyepo",
+    "Username" : "Jina la mtumiaji",
+    "Password" : "Nenosiri",
+    "Login" : "Ingia",
+    "FirstName" : "Jina la kwanza",
+    "OtherNane" : "Jina lingine",
+    "LastName" : "Jina la familia",
+    "DateofBirth" : "Trehe ya kuzaliwa",
+    "Gender" : "Jinsia",
+    "Female" : "Mwanamke",
+    "Male" : "Kiume",
+    "IDNumber" : "Nambari ya kitambulisho",
+    "CellNumber" : "Nambari ya seli",
+    "Email" : "Barua pepe",
+    "LanguagePreference" : "Upendeleo wa lungha",
+    "Register" : "Kujiandikisha",
+    "Report Accident" : "Kuripoti ajali",
+    "Tracking" : "Kufuatilia",
+    "FollowUp" : "Fuatilia",
+    "IncorrectUsernameorPassword" : "Jina la mtumiaji au nenosiri lisilo sahihi"
+    }

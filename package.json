@@ -1,0 +1,33 @@
+{
+  "name": "psms",
+  "version": "1.0.0",
+  "description": "PatientS Managment System",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Simango Nandi"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "i18n-express": "^1.1.3",
+    "nodemon": "^2.0.13",
+    "path": "^0.12.7",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}

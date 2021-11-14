@@ -1,0 +1,23 @@
+{
+    "New_User" : "Umsebenzisi Omusha",
+    "Exisiting_User" : "Umsebenzisi Okhona",
+    "Username" : "Igama lomsebenzisi",
+    "Password" : "Iphasiwedi",
+    "Login" : "Ngena ngemvume",
+    "FirstName" : "Igama",
+    "OtherName" : "Elinye igama",
+    "LastName" : "Isibongo",
+    "DateofBirth" : "Usuku lokuzalwa",
+    "Gender" : "Ubulili",
+    "Female" : "Owesifazane",
+    "Male" : "Owesilisa",
+    "IDNumber" : "Inombolo kamazisi",
+    "CellNumber" : "Inombolo Yeselula",
+    "Email" : "I-imeyili",
+    "LanguagePreference" : "Ulimi Olukhethwayo",
+    "Register" : "Bhalisa",
+    "ReportAccident" : "Bika ingozi",
+    "Tracking" : "Ukulandelela",
+    "FollowUp" : "Landelela",
+    "IncorrectUsernameorPassword" : "Igama lomsebenzisi elingalungile noma iphasiwedi"
+    }

@@ -1,0 +1,66 @@
+<form action="/register" method="post">
+
+    <div class="row">
+        <div class="col-6 right"><label for="firstName">{{translation.FirstName}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="text" name="firstName" value="{{Firstname}}" required></div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="lastName">{{translation.LastName}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="text" name="lastName" value="{{Lastname}}" required></div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="DOB">{{translation.DateofBirth}}:</label></div>
+        <div class="col-6"><input id="DOB" type="date" name="DOB" value="{{DOB}}" required></div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="gender">{{translation.Gender}}:</label></div>
+        <div class="col-6">
+            <label for="female">{{translation.Female}}</label>
+            <input class="" type="radio" name="gender" id="female" value="Female" required>
+            <label for="male">{{translation.Male}}</label>
+            <input class="" type="radio" name="gender" id="male" value="Male" required>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="IDno">{{translation.IDNumber}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="number" name="IDno" value="{{IDno}}" required></div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="cellNo">{{translation.CellPhoneNumber}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="number" name="cellNo" value="{{cellNo}}" required></div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="email">{{translation.Email}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="email" name="email" value="{{email}}" required></div>
+    </div>
+    <div class="row">
+        <div class="col-6 right"><label for="language">{{translation.LanguagePreference}}:</label></div>
+        <div class="col-6">
+            <select id="language" name="language">
+                <option value="en">English</option>
+                <option value="af">Afrikaans</option>
+                <option value="xh">IsiXhosa</option>
+                <option value="zu">IsiZulu</option>
+                <option value="nso">Sepedi</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 right"><label for="pwd">{{translation.Password}}:</label></div>
+        <div class="col-6"><input class="txtBox" type="password" name="password" value="{{password}}" required>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 center">
+            <button class="btn" type="submit">{{translation.Register}}</button>
+        </div>
+    </div>
+</form>

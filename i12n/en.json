@@ -1,0 +1,23 @@
+{
+"New_User" : "New User",
+"Exisiting_User" : "Exisiting User",
+"Username" : "Username",
+"Password" : "Password",
+"Login" : "Login",
+"FirstName" : "First Name",
+"OtherNane" : "Other Name",
+"LastName" : "Last Name",
+"DateofBirth" : "Date of Birth",
+"Gender" : "Gender",
+"Female" : "Female",
+"Male" : "Male",
+"IDNumber" : "ID Number",
+"CellPhoneNumber" : "Cell Phone Number",
+"Email" : "Email",
+"LanguagePreference" : "Language Preference",
+"Register" : "Register",
+"ReportAccident" : "Report Accident",
+"Tracking" : "Tracking",
+"FollowUp" : "Follow Up",
+"IncorrectUsernameorPassword" : "Incorrect Username or Password" 
+}

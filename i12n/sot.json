@@ -1,0 +1,23 @@
+{
+"New_User" : "Modirisi o mofsa",
+"Exisiting_User" : "Modirisi wa goba gona",
+"Username" : "Leina la modirisi",
+"Password" : "Khonthisiso ya leina la sephiri",
+"Login" : "Tsena",
+"FirstName" : "Leina",
+"OtherName" : "Lebitso le leng",
+"LastName" : "Sefane",
+"DateofBirth" : "Tsatsi la Matswalo",
+"Gender" : "Bong",
+"Female" : "Mosadi",
+"Male" : "Monna",
+"IDNumber" : "Nomoro ya pukwana ya boitsebiso",
+"CellPhoneNumber" : "Nomoro ya mogala",
+"Email" : "Aterese ya emaile",
+"LanguagePreference" : "kgetho ya leleme",
+"Register" : "Ngwadisa",
+"Report Accident" : "Tleleha Kotsi",
+"Tracking" : "Ho latedisa",
+"FollowUp" : "Go latela dihlahlobo",
+"IncorrectUsernameorPassword" : "Leina la modirisi goba Khonthisiso ya leina la sephiri e fosagetse"
+}
